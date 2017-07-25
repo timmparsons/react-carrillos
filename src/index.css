@@ -6,6 +6,28 @@ body {
 }
 
 /* navigation bar */
-nav a {
-  margin-top: 50px;
+
+.nav {
+  height: 50px;
+}
+
+.logo {
+  float: left;
+}
+
+.nav-bar{
+  padding-top: 25px;
+  float: right;
+}
+
+.nav-bar a {
+  padding: 25px 50px;
+}
+
+/* header */
+
+.header {
+  color: white;
+  background-color: #FF7F50;
+  padding: 200px 0;
 }
